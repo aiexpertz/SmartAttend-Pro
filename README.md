@@ -222,8 +222,8 @@ Free to use, modify, and distribute.
 
 **Ammar Siddiqui**
 - 🔗 GitHub: [@aiexpertz](https://github.com/aiexpertz)
-- 💼 Portfolio: [vibe-lab.com](https://your-portfolio.com)
-- 📧 Email: aammarsidaiexpert@gmail.com
+- 💼 Portfolio: [vibe-lab.com](https://ammaraiexpert.findhubmedia.com/)
+- 📧 Email: ammarsidaiexpert@gmail.com
 - 🤖 Specialization: AI Automation, Face Recognition, Full-Stack Development
 
 ## 🌍 Global Support
